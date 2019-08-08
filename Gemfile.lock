@@ -7,7 +7,8 @@ GIT
 
 GIT
   remote: https://github.com/firstdraft/draft_generators.git
-  revision: 5f55458698c2473fe526c0d25dca85d3dc0747b9
+  revision: cfc92b2e6639a7eddf4aa329c68ab9b53f65a8ca
+  branch: jw-use-golden-5-routes
   specs:
     draft_generators (0.0.3)
       devise

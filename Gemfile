@@ -77,7 +77,7 @@ group :development do
   gem 'annotate'
   gem 'better_errors'
   gem 'binding_of_caller'
-  gem 'draft_generators', github: 'firstdraft/draft_generators'
+  gem 'draft_generators', github: 'firstdraft/draft_generators', branch: "jw-use-golden-5-routes"#, ref: "4ca84ba"
   gem 'letter_opener'
   gem 'meta_request'
 end
